@@ -1,0 +1,1 @@
+document.write("The platform depends on sports event");
