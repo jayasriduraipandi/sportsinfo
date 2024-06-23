@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "sportsinfo",
+			"path": "../../../../../../.vscode/sportsweb model/sportsinfo"
+		}
+	],
+	"settings": {}
+}
